@@ -87,6 +87,7 @@ body {
 .loader2-container {
   display: flex;
   background: #eafdff;
+  position: relative;
 }
 
 .loader2 {
@@ -206,6 +207,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background: #252839;
+  position: relative;
 }
 
 .loader3-container h2 {
@@ -250,6 +252,7 @@ body {
   min-height: 100vh;
   background: #000;
   overflow: hidden;
+  position: relative;
 }
 
 .container {
@@ -328,6 +331,7 @@ body {
   align-items: center;
   background: #edf1f4;
   min-height: 100vh;
+  position: relative;
 }
 
 .loader5-container .loader {
@@ -406,6 +410,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background: #000;
+  position: relative;
 }
 
 .loader6-container .loader {
@@ -516,6 +521,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background: #0c1b21;
+  position: relative;
 }
 
 .loader7-container .loader {
@@ -574,6 +580,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  position: relative;
   height: 100vh;
   background: #240229;
 }
@@ -735,6 +742,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  position: relative;
   background: #000;
 }
 
@@ -814,7 +822,6 @@ body {
     transform: translateY(0px);
   }
 }
-
 
 .loader11-container ul li:nth-child(1) {
   animation-delay: 0s;
